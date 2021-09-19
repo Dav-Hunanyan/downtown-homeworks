@@ -1,0 +1,16 @@
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\bin\Debug\net5.0\8.Methods.exe
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\bin\Debug\net5.0\8.Methods.deps.json
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\bin\Debug\net5.0\8.Methods.runtimeconfig.json
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\bin\Debug\net5.0\8.Methods.runtimeconfig.dev.json
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\bin\Debug\net5.0\8.Methods.dll
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\bin\Debug\net5.0\ref\8.Methods.dll
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\bin\Debug\net5.0\8.Methods.pdb
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\obj\Debug\net5.0\8.Methods.csprojAssemblyReference.cache
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\obj\Debug\net5.0\8.Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\obj\Debug\net5.0\8.Methods.AssemblyInfoInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\obj\Debug\net5.0\8.Methods.AssemblyInfo.cs
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\obj\Debug\net5.0\8.Methods.csproj.CoreCompileInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\obj\Debug\net5.0\8.Methods.dll
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\obj\Debug\net5.0\ref\8.Methods.dll
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\obj\Debug\net5.0\8.Methods.pdb
+C:\Users\hunan\Desktop\downtown\vs\8.Methods\8.Methods\obj\Debug\net5.0\8.Methods.genruntimeconfig.cache

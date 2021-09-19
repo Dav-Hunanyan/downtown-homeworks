@@ -1,0 +1,16 @@
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\obj\Debug\net5.0\Homework.exercises.csprojAssemblyReference.cache
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\obj\Debug\net5.0\Homework.exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\obj\Debug\net5.0\Homework.exercises.AssemblyInfoInputs.cache
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\obj\Debug\net5.0\Homework.exercises.AssemblyInfo.cs
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\obj\Debug\net5.0\Homework.exercises.csproj.CoreCompileInputs.cache
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\bin\Debug\net5.0\Homework.exercises.exe
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\bin\Debug\net5.0\Homework.exercises.deps.json
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\bin\Debug\net5.0\Homework.exercises.runtimeconfig.json
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\bin\Debug\net5.0\Homework.exercises.runtimeconfig.dev.json
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\bin\Debug\net5.0\Homework.exercises.dll
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\bin\Debug\net5.0\ref\Homework.exercises.dll
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\bin\Debug\net5.0\Homework.exercises.pdb
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\obj\Debug\net5.0\Homework.exercises.dll
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\obj\Debug\net5.0\ref\Homework.exercises.dll
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\obj\Debug\net5.0\Homework.exercises.pdb
+C:\Users\hunan\source\repos\Homework.exercises\Homework.exercises\obj\Debug\net5.0\Homework.exercises.genruntimeconfig.cache

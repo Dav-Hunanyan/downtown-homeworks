@@ -1,0 +1,16 @@
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\bin\Debug\net5.0\Loops.exe
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\bin\Debug\net5.0\Loops.deps.json
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\bin\Debug\net5.0\Loops.dll
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\bin\Debug\net5.0\ref\Loops.dll
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\bin\Debug\net5.0\Loops.pdb
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\obj\Debug\net5.0\Loops.csprojAssemblyReference.cache
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\obj\Debug\net5.0\Loops.dll
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\obj\Debug\net5.0\ref\Loops.dll
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\obj\Debug\net5.0\Loops.pdb
+C:\Users\hunan\Desktop\downtown\vs\Loops\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache

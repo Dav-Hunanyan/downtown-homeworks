@@ -1,0 +1,16 @@
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\bin\Debug\net5.0\6.Arrays.exe
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\bin\Debug\net5.0\6.Arrays.deps.json
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\bin\Debug\net5.0\6.Arrays.runtimeconfig.json
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\bin\Debug\net5.0\6.Arrays.runtimeconfig.dev.json
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\bin\Debug\net5.0\6.Arrays.dll
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\bin\Debug\net5.0\ref\6.Arrays.dll
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\bin\Debug\net5.0\6.Arrays.pdb
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\obj\Debug\net5.0\6.Arrays.csprojAssemblyReference.cache
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\obj\Debug\net5.0\6.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\obj\Debug\net5.0\6.Arrays.AssemblyInfoInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\obj\Debug\net5.0\6.Arrays.AssemblyInfo.cs
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\obj\Debug\net5.0\6.Arrays.csproj.CoreCompileInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\obj\Debug\net5.0\6.Arrays.dll
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\obj\Debug\net5.0\ref\6.Arrays.dll
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\obj\Debug\net5.0\6.Arrays.pdb
+C:\Users\hunan\Desktop\downtown\vs\6.Arrays\6.Arrays\obj\Debug\net5.0\6.Arrays.genruntimeconfig.cache
