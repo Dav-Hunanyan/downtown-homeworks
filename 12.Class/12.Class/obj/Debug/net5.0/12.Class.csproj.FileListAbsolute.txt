@@ -1,0 +1,16 @@
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\bin\Debug\net5.0\12.Class.exe
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\bin\Debug\net5.0\12.Class.deps.json
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\bin\Debug\net5.0\12.Class.runtimeconfig.json
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\bin\Debug\net5.0\12.Class.runtimeconfig.dev.json
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\bin\Debug\net5.0\12.Class.dll
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\bin\Debug\net5.0\ref\12.Class.dll
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\bin\Debug\net5.0\12.Class.pdb
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\obj\Debug\net5.0\12.Class.csprojAssemblyReference.cache
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\obj\Debug\net5.0\12.Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\obj\Debug\net5.0\12.Class.AssemblyInfoInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\obj\Debug\net5.0\12.Class.AssemblyInfo.cs
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\obj\Debug\net5.0\12.Class.csproj.CoreCompileInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\obj\Debug\net5.0\12.Class.dll
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\obj\Debug\net5.0\ref\12.Class.dll
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\obj\Debug\net5.0\12.Class.pdb
+C:\Users\hunan\Desktop\downtown\vs\12.Class\12.Class\obj\Debug\net5.0\12.Class.genruntimeconfig.cache

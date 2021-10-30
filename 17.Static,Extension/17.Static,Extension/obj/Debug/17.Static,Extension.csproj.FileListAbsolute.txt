@@ -1,0 +1,7 @@
+C:\Users\hunan\Desktop\downtown\vs\17.Static,Extension\17.Static,Extension\bin\Debug\17.Static,Extension.exe.config
+C:\Users\hunan\Desktop\downtown\vs\17.Static,Extension\17.Static,Extension\bin\Debug\17.Static,Extension.exe
+C:\Users\hunan\Desktop\downtown\vs\17.Static,Extension\17.Static,Extension\bin\Debug\17.Static,Extension.pdb
+C:\Users\hunan\Desktop\downtown\vs\17.Static,Extension\17.Static,Extension\obj\Debug\17.Static,Extension.csprojAssemblyReference.cache
+C:\Users\hunan\Desktop\downtown\vs\17.Static,Extension\17.Static,Extension\obj\Debug\17.Static,Extension.csproj.CoreCompileInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\17.Static,Extension\17.Static,Extension\obj\Debug\17.Static,Extension.exe
+C:\Users\hunan\Desktop\downtown\vs\17.Static,Extension\17.Static,Extension\obj\Debug\17.Static,Extension.pdb

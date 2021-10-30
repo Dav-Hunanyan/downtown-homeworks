@@ -1,0 +1,7 @@
+C:\Users\hunan\Desktop\downtown\vs\16.Interface\16.Interface\bin\Debug\16.Interface.exe.config
+C:\Users\hunan\Desktop\downtown\vs\16.Interface\16.Interface\bin\Debug\16.Interface.exe
+C:\Users\hunan\Desktop\downtown\vs\16.Interface\16.Interface\bin\Debug\16.Interface.pdb
+C:\Users\hunan\Desktop\downtown\vs\16.Interface\16.Interface\obj\Debug\16.Interface.csprojAssemblyReference.cache
+C:\Users\hunan\Desktop\downtown\vs\16.Interface\16.Interface\obj\Debug\16.Interface.csproj.CoreCompileInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\16.Interface\16.Interface\obj\Debug\16.Interface.exe
+C:\Users\hunan\Desktop\downtown\vs\16.Interface\16.Interface\obj\Debug\16.Interface.pdb

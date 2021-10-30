@@ -1,0 +1,16 @@
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\bin\Debug\net5.0\10.program().exe
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\bin\Debug\net5.0\10.program().deps.json
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\bin\Debug\net5.0\10.program().runtimeconfig.json
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\bin\Debug\net5.0\10.program().runtimeconfig.dev.json
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\bin\Debug\net5.0\10.program().dll
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\bin\Debug\net5.0\ref\10.program().dll
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\bin\Debug\net5.0\10.program().pdb
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\obj\Debug\net5.0\10.program().csprojAssemblyReference.cache
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\obj\Debug\net5.0\10.program().GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\obj\Debug\net5.0\10.program().AssemblyInfoInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\obj\Debug\net5.0\10.program().AssemblyInfo.cs
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\obj\Debug\net5.0\10.program().csproj.CoreCompileInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\obj\Debug\net5.0\10.program().dll
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\obj\Debug\net5.0\ref\10.program().dll
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\obj\Debug\net5.0\10.program().pdb
+C:\Users\hunan\Desktop\downtown\vs\10.program()\10.program()\obj\Debug\net5.0\10.program().genruntimeconfig.cache

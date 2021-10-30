@@ -1,0 +1,7 @@
+C:\Users\hunan\Desktop\downtown\vs\14.Inheritance\14.Inheritance\bin\Debug\14.Inheritance.exe.config
+C:\Users\hunan\Desktop\downtown\vs\14.Inheritance\14.Inheritance\bin\Debug\14.Inheritance.exe
+C:\Users\hunan\Desktop\downtown\vs\14.Inheritance\14.Inheritance\bin\Debug\14.Inheritance.pdb
+C:\Users\hunan\Desktop\downtown\vs\14.Inheritance\14.Inheritance\obj\Debug\14.Inheritance.csprojAssemblyReference.cache
+C:\Users\hunan\Desktop\downtown\vs\14.Inheritance\14.Inheritance\obj\Debug\14.Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\14.Inheritance\14.Inheritance\obj\Debug\14.Inheritance.exe
+C:\Users\hunan\Desktop\downtown\vs\14.Inheritance\14.Inheritance\obj\Debug\14.Inheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\hunan\Desktop\downtown\vs\15.Abstraction\15.Abstraction\bin\Debug\15.Abstraction.exe.config
+C:\Users\hunan\Desktop\downtown\vs\15.Abstraction\15.Abstraction\bin\Debug\15.Abstraction.exe
+C:\Users\hunan\Desktop\downtown\vs\15.Abstraction\15.Abstraction\bin\Debug\15.Abstraction.pdb
+C:\Users\hunan\Desktop\downtown\vs\15.Abstraction\15.Abstraction\obj\Debug\15.Abstraction.csprojAssemblyReference.cache
+C:\Users\hunan\Desktop\downtown\vs\15.Abstraction\15.Abstraction\obj\Debug\15.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\15.Abstraction\15.Abstraction\obj\Debug\15.Abstraction.exe
+C:\Users\hunan\Desktop\downtown\vs\15.Abstraction\15.Abstraction\obj\Debug\15.Abstraction.pdb

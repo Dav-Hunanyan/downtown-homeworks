@@ -1,0 +1,16 @@
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\bin\Debug\net5.0\9.Sort.exe
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\bin\Debug\net5.0\9.Sort.deps.json
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\bin\Debug\net5.0\9.Sort.runtimeconfig.json
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\bin\Debug\net5.0\9.Sort.runtimeconfig.dev.json
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\bin\Debug\net5.0\9.Sort.dll
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\bin\Debug\net5.0\ref\9.Sort.dll
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\bin\Debug\net5.0\9.Sort.pdb
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\obj\Debug\net5.0\9.Sort.csprojAssemblyReference.cache
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\obj\Debug\net5.0\9.Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\obj\Debug\net5.0\9.Sort.AssemblyInfoInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\obj\Debug\net5.0\9.Sort.AssemblyInfo.cs
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\obj\Debug\net5.0\9.Sort.csproj.CoreCompileInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\obj\Debug\net5.0\9.Sort.dll
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\obj\Debug\net5.0\ref\9.Sort.dll
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\obj\Debug\net5.0\9.Sort.pdb
+C:\Users\hunan\Desktop\downtown\vs\9.Sort\9.Sort\obj\Debug\net5.0\9.Sort.genruntimeconfig.cache

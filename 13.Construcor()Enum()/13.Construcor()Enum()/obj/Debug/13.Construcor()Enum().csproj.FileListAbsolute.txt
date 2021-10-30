@@ -1,0 +1,7 @@
+C:\Users\hunan\Desktop\downtown\vs\13.Construcor()Enum()\13.Construcor()Enum()\bin\Debug\13.Construcor()Enum().exe.config
+C:\Users\hunan\Desktop\downtown\vs\13.Construcor()Enum()\13.Construcor()Enum()\bin\Debug\13.Construcor()Enum().exe
+C:\Users\hunan\Desktop\downtown\vs\13.Construcor()Enum()\13.Construcor()Enum()\bin\Debug\13.Construcor()Enum().pdb
+C:\Users\hunan\Desktop\downtown\vs\13.Construcor()Enum()\13.Construcor()Enum()\obj\Debug\13.Construcor()Enum().csprojAssemblyReference.cache
+C:\Users\hunan\Desktop\downtown\vs\13.Construcor()Enum()\13.Construcor()Enum()\obj\Debug\13.Construcor()Enum().csproj.CoreCompileInputs.cache
+C:\Users\hunan\Desktop\downtown\vs\13.Construcor()Enum()\13.Construcor()Enum()\obj\Debug\13.Construcor()Enum().exe
+C:\Users\hunan\Desktop\downtown\vs\13.Construcor()Enum()\13.Construcor()Enum()\obj\Debug\13.Construcor()Enum().pdb
