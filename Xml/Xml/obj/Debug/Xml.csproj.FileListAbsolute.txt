@@ -1,0 +1,7 @@
+C:\Users\hunan\Desktop\downtown\Xml\Xml\bin\Debug\Xml.exe.config
+C:\Users\hunan\Desktop\downtown\Xml\Xml\bin\Debug\Xml.exe
+C:\Users\hunan\Desktop\downtown\Xml\Xml\bin\Debug\Xml.pdb
+C:\Users\hunan\Desktop\downtown\Xml\Xml\obj\Debug\Xml.csprojAssemblyReference.cache
+C:\Users\hunan\Desktop\downtown\Xml\Xml\obj\Debug\Xml.csproj.CoreCompileInputs.cache
+C:\Users\hunan\Desktop\downtown\Xml\Xml\obj\Debug\Xml.exe
+C:\Users\hunan\Desktop\downtown\Xml\Xml\obj\Debug\Xml.pdb
