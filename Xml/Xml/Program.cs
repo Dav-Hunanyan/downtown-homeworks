@@ -16,13 +16,13 @@ namespace Xml
         {
 
             string xml = @"F:\employee.txt";
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(Employee));
             Employee employee = new Employee(103221, "AAAAAAAAAAA");
-            // TextWriter txtWriter = new StreamWriter(xml);
-            //  xmlSerializer.Serialize(txtWriter, employee);
+            Xml.Serializer(employee, xml);
+            Employee employee1 = Xml.Deserializer<Employee>(xml);
 
-            StreamReader streamReader = new StreamReader(xml);
-            Employee employee1 = (Employee)xmlSerializer.Deserialize(streamReader);
+
+
+
         }
 
 
